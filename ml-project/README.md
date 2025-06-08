@@ -1,10 +1,10 @@
 ## IBM Transactions Fraud Classification
+Spring 2025
 
 This project applies machine learning models to detect laundering transactions within the IBM Anti Money Laundering dataset.
 
-Group Members: Everett Holmes, Alec Groseclose, Logan Lay
+Project Contributors : Everett Holmes, Alec Groseclose, Logan Lay
 
-GitHub Repo - https://git.txstate.edu/xax14/ml-project/
 
 ## 📁 Project structure
 
